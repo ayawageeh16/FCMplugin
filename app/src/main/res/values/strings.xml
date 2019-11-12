@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FCMplugin</string>
+
+    <string name="channel_name"> fcm plugin notification channel</string>
+    <string name="channel_description"> this is fcm plugin notification channel</string>
+    <string name="appID"> 5d258e58b7941208c73fcfb7 </string>
+
+
+</resources>
